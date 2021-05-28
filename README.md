@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Ronak
+- 👀 Full Stack Developer at Richmond West Corporation
